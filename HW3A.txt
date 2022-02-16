@@ -1,0 +1,8 @@
+9/16/2021
+Jessie George
+Stewart Mckenzie
+Bryan Sosa
+
+Use a uniform translation vector to move the bowtie with WASD,1.
+Prevent bowtie from moving out of view space by setting a translation limit.
+Bowtie contains multiple colors.
